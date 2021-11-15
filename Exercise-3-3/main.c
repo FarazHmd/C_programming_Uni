@@ -1,3 +1,4 @@
+//developed and programming by Faraz.Hmd;
 #include <stdio.h>
 
 int main() {
