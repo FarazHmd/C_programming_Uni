@@ -1,0 +1,3 @@
+C:/Users/Ghost/Desktop/Programming/C/Exercise-4-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ghost/Desktop/Programming/C/Exercise-4-2/cmake-build-debug/CMakeFiles/Exercise_4_2.dir
+C:/Users/Ghost/Desktop/Programming/C/Exercise-4-2/cmake-build-debug/CMakeFiles/edit_cache.dir
