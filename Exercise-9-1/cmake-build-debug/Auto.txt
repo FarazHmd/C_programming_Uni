@@ -1,0 +1,5 @@
+Company name and model : BMW_X3
+date purchase : 2005 
+date production : 2003 
+tank flow : 220.000000 
+tank capacity : 3.500000
