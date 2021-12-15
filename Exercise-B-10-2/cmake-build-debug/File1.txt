@@ -1,0 +1,7 @@
+
+_____________________________________________________________________________________
+
+A binary file is a file whose content must be interpreted by a program or a hardware processor that understands in advance exactly how it is formatted. ... Programmers often talk about an executable program as a binary and will ask another programmer to send me the binaries.
+(A synonym for this usage is object code .)
+
+_____________________________________________________________________________________

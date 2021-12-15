@@ -1,0 +1,27 @@
+
+
+List Sorted By Maximum wind speed And Temperature 
+
+Site ID : [1000]	Wind Speed: [18]	Temperature:[21]
+Site ID : [1000]	Wind Speed: [17]	Temperature:[20]
+Site ID : [1000]	Wind Speed: [16]	Temperature:[19]
+Site ID : [1000]	Wind Speed: [15]	Temperature:[18]
+Site ID : [1000]	Wind Speed: [14]	Temperature:[17]
+Site ID : [1000]	Wind Speed: [13]	Temperature:[16]
+Site ID : [1000]	Wind Speed: [12]	Temperature:[15]
+
+Site ID : [2000]	Wind Speed: [22]	Temperature:[29]
+Site ID : [2000]	Wind Speed: [21]	Temperature:[28]
+Site ID : [2000]	Wind Speed: [20]	Temperature:[27]
+Site ID : [2000]	Wind Speed: [19]	Temperature:[26]
+Site ID : [2000]	Wind Speed: [18]	Temperature:[25]
+Site ID : [2000]	Wind Speed: [17]	Temperature:[24]
+Site ID : [2000]	Wind Speed: [16]	Temperature:[23]
+
+Site ID : [4000]	Wind Speed: [27]	Temperature:[34]
+Site ID : [4000]	Wind Speed: [26]	Temperature:[33]
+Site ID : [4000]	Wind Speed: [25]	Temperature:[32]
+Site ID : [4000]	Wind Speed: [24]	Temperature:[31]
+Site ID : [4000]	Wind Speed: [23]	Temperature:[30]
+Site ID : [4000]	Wind Speed: [22]	Temperature:[29]
+Site ID : [4000]	Wind Speed: [21]	Temperature:[28]
