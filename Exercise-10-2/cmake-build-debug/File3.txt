@@ -1,0 +1,11 @@
+
+_____________________________________________________________________________________
+
+A binary file is a file whose content must be interpreted by a program or a hardware processor that understands in advance exactly how it is formatted. ... Programmers often talk about an executable program as a binary and will ask another programmer to send me the binaries.
+(A synonym for this usage is object code .)
+
+_____________________________________________________________________________________
+
+In computing, a null pointer or null reference is a value saved for indicating that the pointer or reference does not refer to a valid object. ... It might compare equal to other, valid pointers; or it might compare equal to null pointers. It might do both at different times; or the comparison might be undefined behaviour.
+
+_____________________________________________________________________________________
