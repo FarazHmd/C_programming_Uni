@@ -1,8 +1,12 @@
-# FHMD.Repo
-These projects are actually my university exercises.
-So forgive me if they do not have a high level. !
+# Hello There 
+ 
+Here are some useful c-exercises
+Which can include exercises from loops and arrays  and  struct ....
+and other 
+Very interesting topics
+
 .
 .
 .
-.
-This projects developed in C Language
+
+I hope this little resource can help you
