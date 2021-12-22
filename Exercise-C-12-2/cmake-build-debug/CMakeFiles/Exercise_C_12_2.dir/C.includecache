@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/POSTFIX/postfix.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+postfix.h
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/POSTFIX/postfix.h
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/POSTFIX/postfix.h
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/main.c
+stdio.h
+-
+POSTFIX/postfix.c
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/POSTFIX/postfix.c
+

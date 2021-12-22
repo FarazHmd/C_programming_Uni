@@ -1,0 +1,3 @@
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/cmake-build-debug/CMakeFiles/Exercise_C_12_2.dir
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
