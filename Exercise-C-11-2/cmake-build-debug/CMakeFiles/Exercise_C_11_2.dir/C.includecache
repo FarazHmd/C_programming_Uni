@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/BSORT.h/BSORT.c
+BSORT.h
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/BSORT.h/BSORT.h
+stdio.h
+-
+stdio.h
+-
+stdbool.h
+-
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/BSORT.h/BSORT.h
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/main.c
+stdio.h
+-
+BSORT.h/BSORT.h
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/BSORT.h/BSORT.h
+BSORT.h/BSORT.c
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-11-2/BSORT.h/BSORT.c
+stdlib.h
+-
+time.h
+-
+
