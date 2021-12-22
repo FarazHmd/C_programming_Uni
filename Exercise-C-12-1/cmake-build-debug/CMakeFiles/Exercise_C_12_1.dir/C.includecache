@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-1/STACK/stack.c
+stack.h
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-1/STACK/stack.h
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-1/STACK/stack.h
+
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-1/main.c
+stdio.h
+-
+STACK/stack.c
+C:/Users/Ghost/Desktop/Programming/C/C Project uni- Exercises/Exercise-C-12-1/STACK/stack.c
+

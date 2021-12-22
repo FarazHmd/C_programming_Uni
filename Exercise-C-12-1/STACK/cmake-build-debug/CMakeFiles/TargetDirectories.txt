@@ -1,0 +1,3 @@
+C:/Users/Ghost/Desktop/Programming/C/sys/STACK/cmake-build-debug/CMakeFiles/STACK.dir
+C:/Users/Ghost/Desktop/Programming/C/sys/STACK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ghost/Desktop/Programming/C/sys/STACK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
